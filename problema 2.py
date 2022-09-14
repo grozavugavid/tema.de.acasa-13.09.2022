@@ -1,6 +1,6 @@
 def fact(x):
     c=1
-    for i in range (1,x+1)
+    for i in range (1,x+1):
     c=c*x
     return c
 n=int(input('introdu n' )
